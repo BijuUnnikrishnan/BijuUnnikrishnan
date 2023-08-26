@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **OWG**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Automation Testing**
 
 - 👨‍💻 All of my projects are available at [https://bijuunnikrishnan.github.io/Main-profile/](https://bijuunnikrishnan.github.io/Main-profile/)
 
