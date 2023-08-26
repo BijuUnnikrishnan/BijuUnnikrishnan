@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bijuunnikrishnan.github.io/Main-profile/](https://bijuunnikrishnan.github.io/Main-profile/)
 
-- 💬 Ask me about **Javascript, React Js**
+- 💬 Ask me about **Selenium, API Testing, Scrum, Agile, SQL, Manual Testing, Scrum, Python**
 
 - 📫 How to reach me **bunnikrishnan95@gmail.com**
 
